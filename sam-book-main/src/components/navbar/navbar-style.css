@@ -1,0 +1,22 @@
+.navbar-main {
+    background-color: azure;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.book-result {}
+
+.book-component {
+ padding: 1rem;
+}
+
+.each-book {
+    padding: 1rem;
+    background-color:rgb(237, 237, 237);
+    border-radius: 10px;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

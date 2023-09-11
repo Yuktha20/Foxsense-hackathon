@@ -1,0 +1,14 @@
+.login-main {
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-input {
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 2rem;
+}
+
